@@ -1,6 +1,6 @@
 {
-  "name":"UNIQUE MD",
-  "description":"UNIQUE MULTIDIVICE CREATED BY WASI",
+  "name":"XINXO",
+  "description":"UNIQUE MULTIDIVICE CREATED BY LYGOPHILE",
   "keywords":["WASI","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/924f379c95ebba81c0a3b.jpg",
   "repository":"https://github.com/Itxxwasi/UNIQUE-MD",
@@ -35,7 +35,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"𝗨𝗡𝗜𝗤𝗨𝗘 𝗠𝗗 𝗕𝗢𝗧",
+      "value":"𝗠𝗥_𝗞𝗥𝗜𝗫𝗨",
       "required":false
 
     } ,
@@ -72,16 +72,16 @@
     "OWNER_NAME":
     {
     
-    "desc": "Your Name",
+    "desc": "Your name",
     "required": false,
-    "value": "MR WASI"
+    "value": "𝗟𝗬𝗚𝗢𝗣𝗛𝗜𝗟𝗘"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "923192173398"
+    "value": "919365354223"
   },
     "WARN_COUNT":
   {
